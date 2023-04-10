@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+}
+
+#block {
+    background-color:red;
+    margin-left: 50px;
+}
+
+span {
+    background-color: palegreen;
+}
